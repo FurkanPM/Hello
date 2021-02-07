@@ -6,4 +6,4 @@ coding PocketMine & Altay plugins.
 # My Skills
 HTML / CSS / PHP / Lua / C++ & C# / Little Javascript
 
-# Im live life
+# I live life
